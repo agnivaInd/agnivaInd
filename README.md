@@ -7,9 +7,9 @@ I will update my contact email in the upcoming weeks.
 I am natively from Kolkata, West Bengal, India
 ___
 ### Educational Background
-- BTech: Indian Institute of Technology Guwahati, Assam, India (2021-2025)
-- Higher Secondary: Bhavan's Gangabux Kanoria Vidyamandir, Kolkata, India (2019-2021)
-- Secondary: Bhavan's Gangabux Kanoria Vidyamandir, Kolkata, India (2007-2019)
+- BTech: Indian Institute of Technology Guwahati, Guwahati, Assam, India (2021-2025)
+- Higher Secondary: Bhavan's Gangabux Kanoria Vidyamandir, Kolkata, West Bengal, India (2019-2021)
+- Secondary: Bhavan's Gangabux Kanoria Vidyamandir, Kolkata, West Bengal, India (2007-2019)
 ___
 ### Research Interests
 - Compressible Fluid Mechanics
