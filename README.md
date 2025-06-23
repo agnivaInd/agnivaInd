@@ -1,6 +1,7 @@
 ## My ReadME
 
-Hi everyone, I am `Agniva Ghosh`, an incoming MTech student in Mechanical Engineering, IIT Bombay. I am a recent graduate from Mechanical Engineering, IIT Guwahati in 2025.
+Hi everyone!
+I am `Agniva Ghosh`, an incoming MTech student in Mechanical Engineering, IIT Bombay. I am a recent graduate from Mechanical Engineering, IIT Guwahati in 2025.
 I will update my contact email in the upcoming weeks.
 
 I am natively from Kolkata, West Bengal, India
