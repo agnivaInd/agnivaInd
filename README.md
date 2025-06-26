@@ -16,6 +16,7 @@ ___
 - Computational Fluid Dynamics
 - Computational Gas Dynamics
 - Numerical Methods
+- Turbomachinery
 <!--
 **agnivaInd/agnivaInd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
